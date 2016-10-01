@@ -1,0 +1,8 @@
+MySite.egg-info/PKG-INFO
+MySite.egg-info/SOURCES.txt
+MySite.egg-info/dependency_links.txt
+MySite.egg-info/entry_points.txt
+MySite.egg-info/requires.txt
+MySite.egg-info/top_level.txt
+mysite/__init__.py
+mysite/app.py

@@ -1,4 +1,0 @@
-<div>
-  <h1>About</h1>
-  <p>url: ${request.url}</p>
-</div>
