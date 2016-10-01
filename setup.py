@@ -7,7 +7,7 @@ requires = [
     'pyramid_jinja2'
 ]
 setup(name='MySite',
-      version='1.0',
+      version='1.0.1',
       install_requires=requires,
       description='Simple Web Application',
       author='Tonye Jack',

@@ -5,4 +5,3 @@ MySite.egg-info/entry_points.txt
 MySite.egg-info/requires.txt
 MySite.egg-info/top_level.txt
 mysite/__init__.py
-mysite/app.py
